@@ -1,0 +1,4 @@
+﻿# Themes from VS2019 Visual Studio Color Theme Editor
+
+- 1.0.0 Initial release
+ 
