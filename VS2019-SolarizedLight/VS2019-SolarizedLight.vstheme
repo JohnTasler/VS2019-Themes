@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="VS2019 Solarized (Light)" GUID="{68A3F14B-841D-46A6-A0C4-4636F15795D9}">
+  <Theme Name="VS2019 Solarized (Light)" GUID="{4ddf4170-711c-4b6a-b3b6-fb417528aa12}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFFDF6E3" />

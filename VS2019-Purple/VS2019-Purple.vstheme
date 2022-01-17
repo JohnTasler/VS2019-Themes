@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="VS2019 Purple" GUID="{EB2183CE-07C9-45A1-A5B9-3FD1F5487460}">
+  <Theme Name="VS2019 Purple" GUID="{6e300d1d-68b8-4ecc-96bc-17d5616fcf2a}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFFFFFFF" />

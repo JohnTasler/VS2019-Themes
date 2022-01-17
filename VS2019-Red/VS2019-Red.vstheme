@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="VS2019 Red" GUID="{89AC21F4-607E-480E-B97A-C87E8FB74B85}">
+  <Theme Name="VS2019 Red" GUID="{8b9939b9-0421-4e81-82c6-cedec9711dd6}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFFFFFFF" />

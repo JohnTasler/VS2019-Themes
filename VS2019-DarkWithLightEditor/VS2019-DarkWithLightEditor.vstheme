@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="VS2019 Dark With Light Editor" GUID="{FFF191CF-2A2C-4D16-9B81-CDE24F8B65FE}">
+  <Theme Name="VS2019 Dark With Light Editor" GUID="{7bcb0df8-497b-4625-a516-85eb952736d4}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
