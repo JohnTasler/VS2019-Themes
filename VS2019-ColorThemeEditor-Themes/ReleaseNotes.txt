@@ -1,4 +1,5 @@
 ﻿# Themes from VS2019 Visual Studio Color Theme Editor
 
-- 1.0.0 Initial release
- 
+- 1.0.2 Actually corrected the GUID of the Green theme.
+- 1.0.1 Corrected name and GUID of Green theme.
+- 1.0.0 Initial release.

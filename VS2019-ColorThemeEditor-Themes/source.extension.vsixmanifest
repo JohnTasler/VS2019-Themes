@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="VS16-ColorThemeEditor-Themes.095472E7-A561-48CD-9D50-2E6B2C8EC785" Version="1.0" Language="en-US" Publisher="John Tasler" />
+        <Identity Id="VS16-ColorThemeEditor-Themes.095472E7-A561-48CD-9D50-2E6B2C8EC785" Version="1.0.2" Language="en-US" Publisher="John Tasler" />
         <DisplayName>Color Themes from VS2019</DisplayName>
         <Description xml:space="preserve">Brings back to VS2022 the themes from the VS2019 Color Theme Editor.</Description>
         <ReleaseNotes>ReleaseNotes.txt</ReleaseNotes>
